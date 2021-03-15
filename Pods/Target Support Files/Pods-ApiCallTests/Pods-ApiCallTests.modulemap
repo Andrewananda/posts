@@ -1,0 +1,6 @@
+framework module Pods_ApiCallTests {
+  umbrella header "Pods-ApiCallTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
